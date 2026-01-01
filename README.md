@@ -1,6 +1,4 @@
 # SEIR-1
-Systems Engineering &amp; Identity Responsibility (SEIR-I)
-
 Systems Engineering & Identity Responsibility (SEIR-I)
 
 A 2-Year Applied Program in Cloud Infrastructure, Identity, and Federated Trust
