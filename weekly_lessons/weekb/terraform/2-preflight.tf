@@ -1,3 +1,8 @@
+# IMPORTANT:
+# The backend bucket must already exist before `terraform init`.
+# This preflight check confirms readiness after initialization succeeds.
+
+
 terraform {
   required_version = ">= 1.5.0"
 }
